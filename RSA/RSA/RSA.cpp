@@ -125,6 +125,6 @@ int main()
 	srand(time(NULL));
 
 	RSA();
-
+	printf("±êÇéÄ¿¹ÔÅ×½ºÆ®1\n");
 	return 0;
 }
